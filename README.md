@@ -81,20 +81,6 @@ Variant B’s CTA shows a statistically significant improvement in conversion ra
 
 ---
 
-## Repository Structure
-
-```
-├── data/
-│   └── cta_ab_test_data.csv
-├── notebooks/
-│   └── cta_ab_test_analysis.ipynb
-├── src/
-│   └── generate_data.py
-└── README.md
-```
-
----
-
 ## Tools & Libraries
 
 - Python  
